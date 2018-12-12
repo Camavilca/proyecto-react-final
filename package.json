@@ -23,6 +23,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "proxy": "https://integrador-camavilca.c9users.io/v2/",
   "eslintConfig": {
     "extends": "react-app"
   },
